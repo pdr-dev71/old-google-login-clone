@@ -1,16 +1,18 @@
-# google_login_clone
+## Aplicativo Clone > Google Login Antigo
 
-A new Flutter project.
+## Sobre o projeto
+O presente aplicativo foi desenvolvido apenas para fins de replicação de uma interface que era utilizada pela google em sua pagina de login.
 
-## Getting Started
+## :paperclip: O que foi desenvolvido: 
 
-This project is a starting point for a Flutter application.
+- [X] Interface de login
+	- [ ] Realizar login
 
-A few resources to get you started if this is your first Flutter project:
+## :art: UI 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+###  Tela de login
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WhatsApp Image 2022-09-28 at 20 47 05](https://user-images.githubusercontent.com/53342708/192908482-5de50bf5-5b87-4487-bc5d-649fda98c0d2.jpeg)
+
+
+
